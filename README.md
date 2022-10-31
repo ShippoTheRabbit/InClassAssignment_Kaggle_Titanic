@@ -1,5 +1,6 @@
 # InClassAssignment_Kaggle_Titanic
 Brianna Boston Kaggle Findings Titanic 
+Kaggle Challenge Used: **https://www.kaggle.com/competitions/titanic/overview**
 
 The dataset I worked on was the train.csv data set for the Titanic problem. 
 In the dataset I created two python notebook files, one which cleans the dataset, and the other which tells my story. 
